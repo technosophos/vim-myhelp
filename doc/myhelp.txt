@@ -16,7 +16,6 @@ CONTENTS
 
 
    - :wall : Save modified buffers
-
    - :x : Save buffer only if modified, then exit (better than :wq)
    - ]] : next section
    - ]m : next method
@@ -63,8 +62,9 @@ CONTENTS
 ===============================================================================
 4. Rebuilding this file.
 
-This file is loaded as a plugin. If you ever need to reload it, just do:
-
-helpt /path/to/this/directory
+This file is loaded as a plugin. If you ever need to rebuild the tags file, run
+this command: >
+   :helpt /path/to/this/directory
+<
 
 You may need to restart VIM to see the updated version.
