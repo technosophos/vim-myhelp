@@ -1,5 +1,6 @@
 myhelp	doc/myhelp.txt	/*myhelp*
 myhelp-insert	doc/myhelp.txt	/*myhelp-insert*
 myhelp-normal	doc/myhelp.txt	/*myhelp-normal*
+myhelp-notes	doc/myhelp.txt	/*myhelp-notes*
 myhelp-visual	doc/myhelp.txt	/*myhelp-visual*
 myhelp.txt	doc/myhelp.txt	/*myhelp.txt*
